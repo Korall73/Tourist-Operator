@@ -1,0 +1,51 @@
+.wrapper-knowledge{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+}
+
+.wrapper-carts{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    width: 100%;
+}
+
+.cart-knowledge{
+    display: flex;
+    flex-direction: column;
+    align-items: space-between;
+    margin: 2vw 3vw;
+    border-radius: 0.5vw;
+    box-shadow: 0 0 1vw rgb(0, 0, 0);
+}
+
+.cart-img{
+    width: 15vw;
+    border-radius: 0.5vw;
+}
+
+.cart-place{
+    margin: 0.5vw;
+    font-size: 1.2vw;
+}
+
+.link-knowledge{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 0.5vw;
+}
+
+.knowledge-btn{
+    padding: 0.5vw;
+    width: 100%;
+    height: 100%;
+    border-radius: 0.5vw;
+    background-color: rgb(255, 100, 0);
+    color: rgb(255, 255, 255);
+    cursor: pointer;
+}

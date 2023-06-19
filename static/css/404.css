@@ -1,0 +1,21 @@
+.wrapper-404{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.h1{
+    margin: 3vw;
+    font-size: 3vw;
+}
+
+.txt{
+    margin: 0 3vw;
+    font-size: 1.5vw;
+}
+
+.tourist{
+    margin: 3vw 0;
+    width: 15vw;
+}

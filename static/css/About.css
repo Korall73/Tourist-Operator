@@ -1,0 +1,11 @@
+.wrapper-about{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.sunshine{
+    margin: 3vw 0;
+    width: 25vw;
+}
